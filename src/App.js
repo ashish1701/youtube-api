@@ -9,7 +9,7 @@ class App extends Component {
     this.state={
       searchResults:[],
       searchField:'',
-      apikey: 'AIzaSyBZl8xltaB4teEsyuXUhlnOj6h3bY4g9wg',
+      apikey: '',
       sortBasis:'',
     }
   }
