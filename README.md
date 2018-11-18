@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##What does it do?
+Uses YouTubev3 API to search for items and sort the searched results on the basis of Name or Published Date
 
 ## Available Scripts
 
