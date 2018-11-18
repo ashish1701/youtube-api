@@ -6,7 +6,7 @@ const SearchBox=({onChange, onSubmit, onFilterChange}) => {
 			<div className='center w-100 form pa4 br-3 shadow-5 dib'>
 				<input className='f4 w-50 pa2 center' 
 				type= "text"
-				 placeholder="Enter Link" 
+				 placeholder="Search" 
 				 onChange = {onChange} 
 				 />
 				<button className='f4 grow w-10 link ph3 pv2 dib white bg-light-purple'
